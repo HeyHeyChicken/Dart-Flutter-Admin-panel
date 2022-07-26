@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://raw.githubusercontent.com/HeyHeyChicken/Dart-Flutter---Admin-panel/main/screenshot.jpg" width="300" />
+    <img src="https://raw.githubusercontent.com/HeyHeyChicken/Dart-Flutter---Admin-panel/main/screenshot.jpg" width="500" />
     <br>
     This project is my first one using Dart and Flutter.<br>
 </div>
